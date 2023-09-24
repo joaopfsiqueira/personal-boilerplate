@@ -7,8 +7,7 @@
 		"test": "vitest",
 		"test:coverage": "npx vitest run --coverage",
 		"dev": "nodemon server.ts",
-		"build": "tsup src",
-		"prepare": "husky install"
+		"build": "tsup src"
 	},
 	"author": "João Siqueira",
 	"license": "ISC",
